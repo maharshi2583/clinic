@@ -3,7 +3,9 @@
 :root {
     font-family: 'Roboto', sans-serif !important;
 }
-
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
 /* header */
 #header {
     background-color: #eff5ff;
